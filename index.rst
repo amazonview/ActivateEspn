@@ -10,7 +10,7 @@ How to Activate ESPN on Roku, Xfinity, Fire Stick, Apple TV
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_18.png
    :width: 350px
    :align: center
    :height: 100px
